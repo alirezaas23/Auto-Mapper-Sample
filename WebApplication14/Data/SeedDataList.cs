@@ -18,9 +18,9 @@ namespace WebApplication14.Data
             modelBuilder.Entity<Person>().HasData(new Person
             {
                 Id = 2,
-                FirstName = "Haniyeh",
-                LastName = "Akbari",
-                PhoneNumber = "09372928670"
+                FirstName = "Habib",
+                LastName = "Asgari",
+                PhoneNumber = "09999999999"
             });
         }
     }
